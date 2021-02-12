@@ -5,7 +5,7 @@ import styled from 'styled-components'
 //..  color: ${({ theme }) => theme.colors.primary};
 //`
 function Title() {
-  return <h1>Titulo qualquer</h1>
+  return <h1>Titulooo teste</h1>
 }
 
 export default function Home() {
